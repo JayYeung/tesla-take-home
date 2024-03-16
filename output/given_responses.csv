@@ -1,0 +1,4 @@
+query,response
+Which model year had the highest quantity consumed in 2023?,2015
+How many cars have undergone multiple repairs?,2925
+Calculate the number of unique repairs that occur each year and plot the trend.,The number of unique repairs that occur each year can be plotted using the above code.

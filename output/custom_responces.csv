@@ -1,0 +1,14 @@
+query,response
+Which model year had the highest quantity consumed in 2023?,2015
+How many cars have undergone multiple repairs?,2925
+Calculate the number of unique repairs that occur each year and plot the trend.,The number of unique repairs that occur each year can be calculated by grouping the dataframe by ModelYear and counting the unique RepairIDs for each year. The trend can be plotted by using the plot() function on the resulting series.
+Identify the part with the highest failure rate over the last 5 years.,The part with the highest failure rate over the last 5 years is C.
+What is the average time between repairs for each car model?,The average time between repairs for each car model is approximately 0.0027 years.
+Determine the month with the highest repair demands for the past year.,The month with the highest repair demands for the past year is September.
+Which car model required the most parts on average for repairs?,"The car model with the highest average quantity of parts used for repairs is the 2023 model, with an average of 1.021622 parts used."
+List the top three most frequently replaced parts across all models.,"The top three most frequently replaced parts across all models are E, D, and C."
+Calculate the total quantity of parts consumed per car model in 2023.,The total quantity of parts consumed per car model in 2023 is 189.
+Identify trends in repair frequency by model year over the last decade.,"The plot shows that repair frequency has generally increased over the last decade, with a peak in 2015 and a slight decrease in recent years."
+What percentage of cars required no repairs within the first year of ownership?,0.005939%
+Compare the quantity of parts used in repairs between hybrid and non-hybrid models.,The quantity of parts used in repairs for non-hybrid models is higher than that of hybrid models.
+Estimate the yearly increase in part consumption across all models.,The average yearly increase in part consumption across all models is approximately 40%.
