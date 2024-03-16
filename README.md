@@ -24,3 +24,8 @@ Now, you can run Python scripts to use your OpenAI API key to use Langchain.
 ## Running the scripts
 
 Open `langchain.ipynb` in Jupyter Notebook and run the cells. Testcases can be inputted through the `testcase/` folder and output will be saved in the `output/` folder.
+
+## TODO
+
+-   investigate `<string>:1: SettingWithCopyWarning` error with langchain
+-   evaluate the performace of using `langchain` with different models and different modes
